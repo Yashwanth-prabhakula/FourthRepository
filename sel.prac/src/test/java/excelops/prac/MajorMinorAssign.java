@@ -37,7 +37,7 @@ public class MajorMinorAssign
 		
 		row = sheet.getRow(1);
 		
-		cell = row.get
+
 				
 				for(int j = 0; j < sheet.getLastRowNum(); j++)
 				{
@@ -53,10 +53,8 @@ public class MajorMinorAssign
 				}
 			}
 
-		}
 		
 		
 	
 	}
 
-}
