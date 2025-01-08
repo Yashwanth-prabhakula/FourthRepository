@@ -1,0 +1,11 @@
+WINDOWS:
+Runtime.getRuntime().exec("taskkill /F /IM chrome.exe");
+Runtime.getRuntime().exec("taskkill /F /IM firefox.exe");
+Runtime.getRuntime().exec("taskkill /F /IM msedge.exe");
+
+
+MAC OS:
+Runtime.getRuntime().exec("killall -9 Google Chrome");
+Runtime.getRuntime().exec("killall -9 firefox");
+Runtime.getRuntime().exec("killall -9 Microsoft Edge");
+Runtime.getRuntime().exec("killall -9 Safari");
