@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-04T17:03:42 IST" name="Default suite" finished-at="2025-01-04T17:03:42 IST" duration-ms="67">
+    <groups>
+    </groups>
+    <test started-at="2025-01-04T17:03:42 IST" name="Default test" finished-at="2025-01-04T17:03:42 IST" duration-ms="67">
+      <class name="testNG.prac.DataProviderdemo">
+        <test-method signature="f(java.lang.Integer, java.lang.String, int)[pri:0, instance:testNG.prac.DataProviderdemo@4bb33f74]" started-at="2025-01-04T17:03:42 IST" name="f" data-provider="dp" finished-at="2025-01-04T17:03:42 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f(java.lang.Integer, java.lang.String, int)[pri:0, instance:testNG.prac.DataProviderdemo@4bb33f74]" started-at="2025-01-04T17:03:42 IST" name="f" data-provider="dp" finished-at="2025-01-04T17:03:42 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f(java.lang.Integer, java.lang.String, int)[pri:0, instance:testNG.prac.DataProviderdemo@4bb33f74]" started-at="2025-01-04T17:03:42 IST" name="f" data-provider="dp" finished-at="2025-01-04T17:03:42 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[c]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testNG.prac.DataProviderdemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
