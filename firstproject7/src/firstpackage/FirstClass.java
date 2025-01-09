@@ -6,7 +6,7 @@ public class FirstClass
 int x = 10;
 int y = 100;
 static int z = 200;
-
+int p,q,r;
 static void display()
 	{
 		System.out.println("Calling static method directly");
